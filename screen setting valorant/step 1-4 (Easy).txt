@@ -1,0 +1,4 @@
+1 start Setting-varolant-(version_basic)
+2 copy text
+3  windows+r and type %localappdata%/valorant/saved/config
+4 paste text in GameUserSettings.ini 
